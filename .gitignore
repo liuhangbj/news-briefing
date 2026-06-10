@@ -1,1 +1,8 @@
-.env
+*.md
+*.json
+*.txt
+scripts/
+config/
+data/
+logs/
+.DS_Store
